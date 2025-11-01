@@ -53,9 +53,16 @@ Functionality and APIs may change until the first stable release (`v0.1.0`).
 
 ---
 
-## 👥 Maintainers
+## 💡 Support
 
-Maintained by the project authors and community contributors.
-Feedback, issues, and pull requests are always welcome.
+If you have questions or need help:
+
+- 📝 [Open an issue](https://github.com/spudlab-xyz/keopy/issues)
+- 💬 Join our community discussions
+- 📧 Contact us through our website
 
 ---
+
+<div align="center">
+  <strong>Built with ❤️ by the SpudLab community</strong>
+</div>
