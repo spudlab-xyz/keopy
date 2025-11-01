@@ -1,12 +1,8 @@
 # KeoPy
 
----
-
 **KeoPy** is a standalone Python module for generating and analysing **all-sky keograms** — time-compressed representations of sky imagery that reveal how celestial and atmospheric features evolve over time.
 
 The project focuses on reliability, reproducibility, and flexibility, providing both a Python API and a command-line interface for automated or interactive analysis workflows.
-
----
 
 ## ✨ Key Goals
 
@@ -17,7 +13,6 @@ The project focuses on reliability, reproducibility, and flexibility, providing 
 * Reproducible metadata and output file standards
 * Optional CLI for batch processing and nightly automation
 
----
 
 ## 🧪 Development
 
@@ -37,21 +32,15 @@ poetry run ruff check .
 poetry run black .
 ```
 
----
-
 ## 🪐 License
 
 Licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
----
-
 ## 🧭 Project Status
 
 KeoPy is currently **in active development**.
 Functionality and APIs may change until the first stable release (`v0.1.0`).
-
----
 
 ## 💡 Support
 
